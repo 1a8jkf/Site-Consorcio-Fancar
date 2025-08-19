@@ -13,3 +13,5 @@ HTML5 – marcação semântica e acessível.
 CSS3 – estilização responsiva com foco em design moderno.
 JavaScript (ES6+) – interatividade e dinamicidade.
 Docker – containerização para ambiente padronizado.
+
+<img width="1903" height="931" alt="image" src="https://github.com/user-attachments/assets/8e06629c-b60a-4b8d-beef-6678f20a5ab1" />
