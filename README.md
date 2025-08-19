@@ -14,4 +14,5 @@ CSS3 – estilização responsiva com foco em design moderno.
 JavaScript (ES6+) – interatividade e dinamicidade.
 Docker – containerização para ambiente padronizado.
 
-<img width="1903" height="931" alt="image" src="https://github.com/user-attachments/assets/8e06629c-b60a-4b8d-beef-6678f20a5ab1" />
+<img width="1899" height="941" alt="image" src="https://github.com/user-attachments/assets/4f184e49-ea92-40cf-bdb4-a7e42e5c653f" />
+
