@@ -21,4 +21,8 @@ Docker – containerização para ambiente padronizado.
 <img width="1898" height="935" alt="image" src="https://github.com/user-attachments/assets/5da82fc9-cf83-4931-a136-80833a4037a5" />
 
 
+<img width="152" height="728" alt="image" src="https://github.com/user-attachments/assets/aaf89778-51bf-4dd7-bc0e-686cb64864d6" />
+
+
+
 
