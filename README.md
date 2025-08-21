@@ -1,5 +1,5 @@
 # Site-Consorcio
-Site do Consórcio Fancar, desenvolvido como projeto de front-end multi-páginas, com design moderno, navegação intuitiva e foco na experiência do usuário. O projeto utiliza HTML, CSS e JavaScript para a estruturação, estilização e interatividade, além de Docker para facilitar o ambiente de desenvolvimento e deploy. Partes do arquivo index.html apenas para visualização de estrutura
+Site do Consórcio Fancar, desenvolvido como projeto de front-end multi-páginas, com design moderno, navegação intuitiva e foco na experiência do usuário. O projeto utiliza HTML, CSS e JavaScript para a estruturação, estilização e interatividade, além de Docker para facilitar o ambiente de desenvolvimento e deploy. Partes do arquivo index.html apenas para visualização de estrutura e trabalho exercido.
 
 Principais características:
 Estrutura modular e organizada.
