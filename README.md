@@ -1,18 +1,9 @@
 # Site-Consorcio
-Site do Consórcio Fancar, desenvolvido como projeto de front-end multi-páginas, com design moderno, navegação intuitiva e foco na experiência do usuário. O projeto utiliza HTML, CSS e JavaScript para a estruturação, estilização e interatividade, além de Docker para facilitar o ambiente de desenvolvimento e deploy. Partes do arquivo index.html apenas para visualização de estrutura e trabalho exercido.
+Aplicação web institucional desenvolvida em React + Node.js, com integração a Oracle Database.
 
-Principais características:
-Estrutura modular e organizada.
-Layout responsivo para diferentes dispositivos.
-Interface limpa e otimizada para usabilidade.
-Integração de boas práticas em UI/UX.
-Versionamento e controle de código via Git/GitHub.
-
-Tecnologias e ferramentas usadas:
-HTML5 – marcação semântica e acessível.
-CSS3 – estilização responsiva com foco em design moderno.
-JavaScript (ES6+) – interatividade e dinamicidade.
-Docker – containerização para ambiente padronizado.
+🔹 Tecnologias: React, Node.js, Express, OracleDB, Docker, CSS3  
+🔹 Desafios: otimização de performance em múltiplas páginas, responsividade total, integração de dados corporativos.  
+🔹 Soluções: uso de lazy loading, compressão de assets e arquitetura modular. 
 
 <img width="1903" height="935" alt="image" src="https://github.com/user-attachments/assets/e6679f84-1ab9-4f14-989a-4a0749a9c3bc" />
 
