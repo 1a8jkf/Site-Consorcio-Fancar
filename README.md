@@ -27,7 +27,7 @@ O sistema foi construído com foco em **performance, escalabilidade e integraç�
 | **Infraestrutura** | Docker                                |
 | **Outros**         | Axios, dotenv, ESLint                 |
 
-### 💡 Observação
+### Observação
 
 O *Site-Consórcio* demonstra domínio em **integração full-stack**, **padronização de código** e **boas práticas de arquitetura** — ideal como exemplo de aplicação corporativa moderna baseada em React e Node.js.
 
