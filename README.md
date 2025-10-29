@@ -1,6 +1,6 @@
 # Site-Consórcio
 
-**Aplicação Web Institucional – React + Node.js + OracleDB**
+**Aplicação Web Institucional React + Node.js + OracleDB**
 
 Este projeto é uma aplicação institucional desenvolvida com **React** no frontend e **Node.js (Express)** no backend, integrada a um **banco de dados Oracle**.
 O sistema foi construído com foco em **performance, escalabilidade e integração corporativa**, rodando em containers **Docker**.
@@ -29,7 +29,7 @@ O sistema foi construído com foco em **performance, escalabilidade e integraç�
 
 ### Observação
 
-O *Site-Consórcio* demonstra domínio em **integração full-stack**, **padronização de código** e **boas práticas de arquitetura** — ideal como exemplo de aplicação corporativa moderna baseada em React e Node.js.
+O *Site-Consórcio* demonstra domínio em **integração full-stack**, **padronização de código** e **boas práticas de arquitetura** ideal como exemplo de aplicação corporativa moderna baseada em React e Node.js.
 
 
 
