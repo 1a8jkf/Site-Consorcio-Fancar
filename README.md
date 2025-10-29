@@ -35,12 +35,10 @@ O *Site-Consórcio* demonstra domínio em **integração full-stack**, **padroni
 
 <img width="1901" height="943" alt="image" src="https://github.com/user-attachments/assets/fa319334-d002-4ae5-bd5f-95230a806165" />
 
-<img width="1900" height="941" alt="image" src="https://github.com/user-attachments/assets/afd7dc89-85e8-4bd5-86e5-684cbd21b3f0" />
+<img width="1899" height="939" alt="image" src="https://github.com/user-attachments/assets/741e2fd8-e658-49ab-a23f-6f39ce9b554a" />
 
-<img width="1898" height="935" alt="image" src="https://github.com/user-attachments/assets/5da82fc9-cf83-4931-a136-80833a4037a5" />
+<img width="1903" height="941" alt="image" src="https://github.com/user-attachments/assets/3078daaf-e264-4075-9710-18471a2e88e9" />
 
-<img width="152" height="728" alt="image" src="https://github.com/user-attachments/assets/aaf89778-51bf-4dd7-bc0e-686cb64864d6" />
+<img width="1901" height="936" alt="image" src="https://github.com/user-attachments/assets/782cf939-5601-4ee3-8327-6fd646eeacdc" />
 
-
-
-
+<img width="1900" height="935" alt="image" src="https://github.com/user-attachments/assets/6c78a89e-27ab-468c-b826-2c74275f1fed" />
